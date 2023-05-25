@@ -14,3 +14,5 @@ Componentes do jogo:
 DIY:
 
   Neste repositório estão armazenados respectivamente as cartas do jogo e o tabuleiro que podem ser impressas tanto em A4 quanto em A5.
+
+Jogo desenvolvido por Rubens Gonçalves e Felipe Tamaki.
